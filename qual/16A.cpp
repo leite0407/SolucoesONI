@@ -5,7 +5,7 @@ problema: A
 pontos: 100
 autor: Manuel Leite
 linguagem: C++
-topicos: stack
+topicos: queue, sliding window
 url do problema: https://www.dcc.fc.up.pt/oni/problemas/2016/qualificacao/probA.html
 url da solucao: 
 */
